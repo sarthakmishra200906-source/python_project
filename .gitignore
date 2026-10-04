@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Node / React
+node_modules/
+dist/
+.dist/
+frontend/dist/
+.DS_Store
+*.local
+
+# Vite
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
